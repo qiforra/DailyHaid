@@ -1,5 +1,6 @@
 // engine.ts
-import { DataMelahirkan, RiwayatSiklus, SiklusDarah, OutputSesi, Timestamp } from './types';
+// Ubah baris ini:
+import { DataMelahirkan, RiwayatSiklus, SiklusDarah, OutputSesi, Timestamp } from './types.ts';
 
 // ==========================================
 // UTILITAS WAKTU
