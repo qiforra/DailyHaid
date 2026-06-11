@@ -1,6 +1,7 @@
 // test.ts
-import { RiwayatSiklus, SiklusDarah } from './types';
-import { prosesEngineHaid } from './engine';
+// Ubah baris ini:
+import { RiwayatSiklus, SiklusDarah } from './types.ts';
+import { prosesEngineHaid } from './engine.ts';
 
 // ==========================================
 // 1. DATA MOCKING (Data Bohongan untuk Tes)
